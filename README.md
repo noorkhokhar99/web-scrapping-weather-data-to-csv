@@ -8,7 +8,7 @@ This project requires a few python packages:
 - pandas  (goto run the command via cmd or terminal: *pip install pandas)
 
 # How To Use
--STEP 1 : Go to  https://forecast.weather.gov/ 
--STEP 2 : Type any pincode or  location in USA and click GO!
--STEP 3 : Copy and Paste URL in the input
--STEP 4 : Give any name u want to save 
+- STEP 1 : Go to  https://forecast.weather.gov/ 
+- STEP 2 : Type any pincode or  location in USA and click GO!
+- STEP 3 : Copy and Paste URL in the input
+- STEP 4 : Give any name u want to save 
