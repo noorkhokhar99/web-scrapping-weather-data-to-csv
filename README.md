@@ -3,9 +3,9 @@ The internet is an absolutely massive source of data. Unfortunately, the vast ma
 
 # Dependencies 
 This project requires a few python packages:
-- BeautifulSoup (goto run the command via cmd or terminal: *pip install BeautifulSoup4*)
-- requests  (goto run the command via cmd or terminal: *pip install requests*)
-- pandas  (goto run the command via cmd or terminal: *pip install pandas)
+- BeautifulSoup ( goto run the command via cmd or terminal: *pip install BeautifulSoup4*)
+- requests  ( goto run the command via cmd or terminal: *pip install requests*)
+- pandas  ( goto run the command via cmd or terminal: *pip install pandas*)
 
 # How To Use
 - STEP 1 : Go to  https://forecast.weather.gov/ 
