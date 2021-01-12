@@ -29,7 +29,8 @@ weather_stuff = pd.DataFrame(
      })
 
 name = str(input("Enter Name of CSV file : "))
-
-save_name = name+".csv"
-
-weather_stuff.to_csv(save_name)
+if name == "":
+    weather_stuff.to_csv("weather_def.csv")
+else:
+    save_name = name + ".csv"
+    weather_stuff.to_csv(save_name)
